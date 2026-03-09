@@ -14,7 +14,7 @@ app: html-demo
 spec:
 containers:
 - name: html-demo
-image: krishikaa399/html-demo:latest
+image: manisha7674/html-demo:latest
 ports:
 - containerPort: 80
 ---
